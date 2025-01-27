@@ -1,4 +1,7 @@
 public class GestionLibros {
-    String nombreLibro;
+    String NombreLibro;
     Generos genero;
+    String ISBN;
+    String NombreAutor;
+    
 }
